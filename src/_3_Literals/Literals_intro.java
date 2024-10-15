@@ -32,13 +32,13 @@ public class Literals_intro {
         System.out.println(number1);
         double number2 = 5.6666663;
         System.out.println(number2);
-        // Charecter Literals (Represent single charecter in single quotes)
+        // Character Literals (Represent single character in single quotes)
         char letterA = 'A';
         System.out.println(letterA);
-        char digit5 = '5'; // We can write integer as charecter
+        char digit5 = '5'; // We can write integer as character
         System.out.println(digit5);
 
-        // String Literals (Represent multiple charecter in multi quotes)
+        // String Literals (Represent multiple character in multi quotes)
         String letterC = "I am a boy";
         String empty = ""; // We can represent empty string
 

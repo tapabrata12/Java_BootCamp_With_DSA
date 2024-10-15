@@ -4,7 +4,7 @@ class EscapeSequences {
     public static void main(String[] args) {
         // Escape Sequence characters
         /*
-        Represent special characters within charecter and String literals, they are written backslash '\'
+        Represent special characters within character and String literals, they are written backslash '\'
 
         Example:
         \' --> for single quote
