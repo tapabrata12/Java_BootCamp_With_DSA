@@ -1,4 +1,4 @@
-package _2_Indetifiers;
+package day1._1_Variables_and_Datatypes;
 
 import java.io.*;
 

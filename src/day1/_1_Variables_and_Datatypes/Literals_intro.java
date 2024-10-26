@@ -1,4 +1,4 @@
-package _3_Literals;
+package day1._1_Variables_and_Datatypes;
 
 public class Literals_intro {
     public static void main(String[] args) {
