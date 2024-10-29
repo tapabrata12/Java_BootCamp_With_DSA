@@ -1,6 +1,5 @@
 package day1._1_Variables_and_Datatypes;
 
-import java.io.*;
 
 //  Note: Identifiers should not be duplicated in two different scrapes
  class IdentifiersScopes {
