@@ -73,7 +73,7 @@ public class Switch {
          * Key Points:
          * 
          * The expression must evaluate to a value of a type that can be compared using
-         * the == operator. Common types include int, char, byte, short, and String.
+         * the == operator. Common types include int, char, byte, short, and String, wraper classes, enums.
          * The case labels must be constant expressions.
          * The break statement is optional but highly recommended to prevent unintended
          * fall-through behavior.

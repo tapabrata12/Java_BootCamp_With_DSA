@@ -1,0 +1,32 @@
+package day3.Pattern_Printing;
+
+public class Reverse_Floyed_Tringle {
+    public static void main(String[] args) {
+        for (int row = 4; row >= 1; row--) {
+    
+            for (int column = 1; column <= 4; column++) {
+                if (column >= row) {
+                    System.out.print("* ");
+                    
+                } else {
+                    System.out.print("  ");
+                }
+            }
+            System.out.println();
+        }
+
+        // Alternative Approch
+
+        for (int row = 1; row <= 4; row++) {
+            for (int column = 1; column <= 4; column++) {
+                if (row+column>=5) {
+                    System.out.print("* ");
+                }
+                else{
+                    System.out.print("  ");
+                }
+            }
+            System.out.println();
+        }
+    }
+}
